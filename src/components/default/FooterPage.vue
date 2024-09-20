@@ -2,6 +2,7 @@
 <footer>
     <p>&copy; 2024 Etec JK</p>
 </footer>
+<br><br>
 </template>
 
 <script>
